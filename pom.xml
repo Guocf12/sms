@@ -9,9 +9,15 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.briup.apps</groupId>
+<<<<<<< HEAD
+	<artifactId>sms</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>sms</name>
+=======
 	<artifactId>smss</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>smss</name>
+>>>>>>> branch 'master' of https://github.com/Guocf12/sms.git
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
