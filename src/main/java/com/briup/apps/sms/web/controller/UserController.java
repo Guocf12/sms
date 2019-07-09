@@ -10,7 +10,7 @@ public class UserController {
 	
 	@GetMapping("findAll")
 	public String findAll() {
-		// 1. 从数据库中查询出所有的学生
+		// 1. 从数据库中查询出所有的学
 		// 2. 将所有学生返回
 		return "hello springboot";
 	}
